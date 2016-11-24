@@ -29,7 +29,7 @@ if not sam_found:
 
 # Exercise 4: Count the occurance of words in the sample text
 word_counts = {}
-for word in  sample_text_words:
+for word in sample_text_words:
     if word in word_counts:
         word_counts[word] = word_counts[word] + 1
     else:

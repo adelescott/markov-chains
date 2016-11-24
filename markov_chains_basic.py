@@ -70,5 +70,5 @@ while(True):
     else:
         break
 
-print("Your generated sentene is:")
+print("Your generated sentence is:")
 print(generated_sentence)
